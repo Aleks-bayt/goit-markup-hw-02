@@ -12,8 +12,7 @@ a {
 
 /* =============== Header =============== */
 
-.header {
-}
+
 .heder-nav {
 }
 .heder-logo {
@@ -104,22 +103,22 @@ a {
 
 /* ======== Strengths ======== */
 
-.Strengths {
+.strengths {
 }
 .Strengths-title {
 }
-.Strengths-menu {
+.strengths-menu {
 }
-.Strengths-list {
+.strengths-list {
 }
-.Strengths-list-title {
+.strengths-list-title {
   color: #2e2f42;
   font-size: 20px;
   font-weight: 500;
   line-height: 1.2;
   letter-spacing: 0.02em;
 }
-.Strengths-list-text {
+.strengths-list-text {
   color: #434455;
   font-family: Roboto;
   font-size: 16px;
