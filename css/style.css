@@ -66,7 +66,8 @@ a {
   line-height: 1.5;
   letter-spacing: 0.02em;
 }
-.adress-menu-link:hover {
+.adress-menu-link:hover,
+.adress-menu-link:focus {
   color: #404bbf;
 }
 
@@ -112,6 +113,7 @@ a {
 .Strengths-list {
 }
 .Strengths-list-title {
+  color: #2e2f42;
   font-size: 20px;
   font-weight: 500;
   line-height: 1.2;
@@ -129,9 +131,10 @@ a {
 /* ============= Our Team ================== */
 
 .team {
+  background-color: #f4f4fd;
 }
 .team-title {
-  background-color: #f4f4fd;
+  color: #2e2f42;
   font-size: 36px;
   font-weight: 700;
   line-height: 1.11;
@@ -140,13 +143,14 @@ a {
   text-transform: capitalize;
 }
 .team-list {
-  background-color: #ffffff;
 }
 .team-list-item {
+  background-color: #ffffff;
 }
 .team-item-imag {
 }
 .team-item-title {
+  color: #2e2f42;
   font-size: 20px;
   font-weight: 500;
   line-height: 1.2; /* 120% */
@@ -179,6 +183,7 @@ a {
 .porfolio-item-imag {
 }
 .porfolio-item-title {
+  color: #2e2f42;
   font-size: 20px;
   font-weight: 500;
   line-height: 1.2; /* 120% */
@@ -206,7 +211,7 @@ a {
   text-transform: uppercase;
 }
 .footer-logo-color {
-  counter-reset: #f4f4fd;
+  color: #f4f4fd;
 }
 .footer-text {
   color: #f4f4fd;
